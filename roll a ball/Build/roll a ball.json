@@ -1,0 +1,16 @@
+{
+"companyName": "Alyn Grady",
+"productName": "Roll A Ball",
+"productVersion": "0.1",
+"dataUrl": "roll a ball.data.unityweb",
+"wasmCodeUrl": "roll a ball.wasm.code.unityweb",
+"wasmFrameworkUrl": "roll a ball.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
